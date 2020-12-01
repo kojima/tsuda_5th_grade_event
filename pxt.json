@@ -9,7 +9,6 @@
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
-        "main.blocks",
         "README.md",
         "tsuda_5th_grade_event.ts"
     ],
