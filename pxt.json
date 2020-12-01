@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tsuda_5th_grade_event.ts"
     ],
     "testFiles": [
         "test.ts"
