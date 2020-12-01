@@ -1,1 +1,1 @@
-tsuda_5th_grade_event.showmessage("Hello!")
+tsuda_5th_grade_event.setupLEDs()
