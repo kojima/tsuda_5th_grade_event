@@ -11,8 +11,7 @@
     "files": [
         "main.blocks",
         "README.md",
-        "tsuda_5th_grade_event.ts",
-        "main.ts"
+        "tsuda_5th_grade_event.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
