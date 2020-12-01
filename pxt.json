@@ -1,5 +1,5 @@
 {
-    "name": "題名未設定",
+    "name": "津田小5年ブロック",
     "version": "0.1.0",
     "description": "",
     "dependencies": {
@@ -10,9 +10,9 @@
     },
     "files": [
         "main.blocks",
-        "main.ts",
         "README.md",
-        "tsuda_5th_grade_event.ts"
+        "tsuda_5th_grade_event.ts",
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +20,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
